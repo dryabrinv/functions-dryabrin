@@ -1,0 +1,14 @@
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\bin\Debug\net8.0\FunctionProject.exe
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\bin\Debug\net8.0\FunctionProject.deps.json
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\bin\Debug\net8.0\FunctionProject.runtimeconfig.json
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\bin\Debug\net8.0\FunctionProject.dll
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\bin\Debug\net8.0\FunctionProject.pdb
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.AssemblyInfoInputs.cache
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.AssemblyInfo.cs
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.csproj.CoreCompileInputs.cache
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.dll
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\refint\FunctionProject.dll
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.pdb
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\FunctionProject.genruntimeconfig.cache
+C:\Users\Drabr\source\repos\FunctionProject\FunctionProject\obj\Debug\net8.0\ref\FunctionProject.dll
